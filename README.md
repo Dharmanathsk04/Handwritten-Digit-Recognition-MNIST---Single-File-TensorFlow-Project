@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition-MNIST---Single-File-TensorFlow-Project
+# Handwritten-Digit-Recognition-MNIST: -Single-File-TensorFlow-Project
